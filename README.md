@@ -8,7 +8,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <h2> SOC Analyst Projects:</h2>
 
 - <b>ELK Stack</b>
-  - [How to Setup and Configure ELK](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [How to Setup and Configure ELK](https://github.com/yogaraj-SOC/ELK-Stack)
   - [Attack, Detect, Investigate](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Creats Alerts and Dashboards](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Setup and Integrate Ticketing System](https://github.com/joshmadakor1/Jwipe.PowerShell)
