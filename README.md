@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
   - [Attack, Detect, Investigate](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
   - [Creats Alerts and Dashboards](https://github.com/joshmadakor1/Sentinel-Lab)
   - [Setup and Integrate Ticketing System](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - 
+    
 - <b>Splunk</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
 
