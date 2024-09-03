@@ -1,11 +1,11 @@
-# Hello, I'm Yogaraj! 😉
+# Hello, I'm Yogaraj! 🐺
 
  A recent Computer Science graduate with a strong passion for cybersecurity, aiming to become a SOC Analyst. My solid academic foundation and dedication to daily improving by 1% drive me to leverage my skills and knowledge to contribute to a team that prioritizes security and innovation.
 
-## Objective
+## Objective ℹ️
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) Analyst.
 
-<h2>Projects:</h2>
+<h2>Projects 👨‍💻</h2>
 
 - <b>ELK Stack</b>
   - [How to Setup and Configure ELK](https://github.com/yogaraj-SOC/ELK-Stack/blob/main/Setup%20and%20configuration%20of%20ELK.md)
