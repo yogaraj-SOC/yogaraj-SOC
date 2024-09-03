@@ -8,10 +8,10 @@ My journey in computer science has led me to develop a passion for cybersecurity
 <h2>Projects:</h2>
 
 - <b>ELK Stack</b>
-  - [How to Setup and Configure ELK](https://github.com/yogaraj-SOC/ELK-Stack)
-  - [Attack, Detect, Investigate](https://github.com/yogaraj-SOC/ELK-Stack)
-  - [Creats Alerts and Dashboards](https://github.com/yogaraj-SOC/ELK-Stack)
-  - [Setup and Integrate Ticketing System](https://github.com/yogaraj-SOC/ELK-Stack)
+  - [How to Setup and Configure ELK](https://github.com/yogaraj-SOC/ELK-Stack/blob/main/Setup%20and%20configuration%20of%20ELK.md)
+  - [Attack, Detect, Investigate](https://github.com/yogaraj-SOC/ELK-Stack/blob/main/Detect%2C%20Attack%20and%20Investigate.md)
+  - [Creats Alerts and Dashboards](https://github.com/yogaraj-SOC/ELK-Stack/blob/main/Create%20Alerts%20and%20Dashboards.md)
+  - [Setup and Integrate Ticketing System](https://github.com/yogaraj-SOC/ELK-Stack/blob/main/Integrate%20Ticketing%20System.md)
     
 - <b>Splunk</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
