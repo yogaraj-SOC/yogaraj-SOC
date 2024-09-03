@@ -5,7 +5,7 @@
 ## Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) Analyst.
 
-<h2> SOC Analyst Projects:</h2>
+<h2>Projects:</h2>
 
 - <b>ELK Stack</b>
   - [How to Setup and Configure ELK](https://github.com/yogaraj-SOC/ELK-Stack)
