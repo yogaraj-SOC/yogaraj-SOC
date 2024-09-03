@@ -1,4 +1,4 @@
-# Hello, I'm Yogaraj
+# Hello, I'm Yogaraj!
 
  A recent Computer Science graduate with a strong passion for cybersecurity, aiming to become a SOC Analyst. My solid academic foundation and dedication to daily improving by 1% drive me to leverage my skills and knowledge to contribute to a team that prioritizes security and innovation.
 
