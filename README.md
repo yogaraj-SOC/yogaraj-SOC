@@ -1,4 +1,4 @@
-# Hello, I'm Yogaraj!
+# Hello, I'm Yogaraj! 😉
 
  A recent Computer Science graduate with a strong passion for cybersecurity, aiming to become a SOC Analyst. My solid academic foundation and dedication to daily improving by 1% drive me to leverage my skills and knowledge to contribute to a team that prioritizes security and innovation.
 
@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <b>Splunk</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
 
-## Tools
+## Tools 🔧
 
 ### Network
 <div>
@@ -35,7 +35,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> <br>
 </div>
 
-## Certifications
+## Certifications 📜
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <br>
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /> <br>
